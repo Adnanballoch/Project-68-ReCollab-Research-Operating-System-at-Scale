@@ -15,6 +15,8 @@ NVIDIA RTX 4070 Super, Custom LLM, Live Streaming, Multi-Platform
 
 [![ReCollab: Research Operating System at Scale](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-68-recollab-research-operating-system-at-scale.jpg)](https://automatrixlab.com/projects/project-68-recollab-research-operating-system-at-scale/)
 
+🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/68-narrated-20261109.mp4
+
 🌐 **See it on the site:** https://automatrixlab.com/projects/project-68-recollab-research-operating-system-at-scale/
 
 ## Access Full Source Code & Live Demo
